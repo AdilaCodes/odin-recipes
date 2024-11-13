@@ -3,5 +3,9 @@ body {
 }
 
 h2 {
-    color: rgb(255, 187, 0)
+    color: #ff9f1c;
+}
+
+h3 {
+    color: #2ec4b6;
 }
